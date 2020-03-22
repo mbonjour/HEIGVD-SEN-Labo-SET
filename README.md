@@ -62,7 +62,8 @@ Pour le collecteur d'identifiants, montrez que vous avez cloné un site en indiq
 # Exercice 2 - Créer une attaque de phishing
 
 Essayez la fonction d'attaque par phishing. C'est très facile à faire. Vous pouvez vous référer à ce lien pour plus d'informations http://www.computerweekly.com/tutorial/Social-Engineer-Toolkit-SET-tutorial-for-penetration-testers
-## Small test with the webmail heig
+## Petit test rapide
+Désolé pour la familiarité et débilité du message, c'était surtout pour tester...
 ![Result of phish](./imgs/social_mail_exo2.png)
 
 # Exercice 3 - Explorer les liens "Phishy" et le courrier électronique "Phishy"
